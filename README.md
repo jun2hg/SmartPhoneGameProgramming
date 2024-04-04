@@ -28,6 +28,7 @@ High Concept
 - 각 몬스터 당 획득 자원(골드)
 
 게임 실행 흐름
+![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/6850eb3e-26d7-483f-a531-3452c4390ae7)
 
 
 
