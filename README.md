@@ -33,22 +33,27 @@ High Concept
 3.게임 실행 흐름
 
 실행화면
+
 ![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/6850eb3e-26d7-483f-a531-3452c4390ae7)
 
 
 능력치 강화 탭 설정
+
 ![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/e2fd7831-aa0b-4617-9017-1652c2acc077)
 
 
 플레이 시작
+
 ![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/9a7cf661-ce1d-494c-bda1-b051e8a40585)
 
 
 플레이어 사망
+
 ![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/a60ed3e7-eb69-4206-ab64-5ac5c8a611a9)
 
 
 스테이지 클리어
+
 ![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/fea2311e-de4a-41fb-a7f7-db305d82622e)
 
 
