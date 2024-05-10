@@ -13,6 +13,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 public class GameView extends View implements Choreographer.FrameCallback  {
+    public static Resources res;
     private Activity activity;
 
     private final Stickman player;
