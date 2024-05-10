@@ -8,33 +8,33 @@ High Concept
 
 ![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/f07b687c-f917-429e-926b-09b06b471d0d)
 
+현재까지 진행 상황 :
+
+1주차 :  UI기획 및 리소스 수집 - 100%
 
 
-개발일정
+2주차 : 캐릭터 생성과 이동 구현 - 50%
+
+나머지 - 0
 
 
-1주차 :  UI기획 및 리소스 수집
+주별 commit수 :
+
+1,2,3,4주차 - 0회
+5주차 - 11회
+
+목표가 변경된 이유 :
+변명의 여지없이 게을렀고 수업을 잘 못 따라갔고 졸작까지 겹쳐서 뒤늦게 교수님이 올려주신 깃허브를 보면서 따라갔습니다.
 
 
-2주차 : 캐릭터 생성과 이동 구현
+클래스 구성정보
 
 
-3주차 : 몬스터 생성 및 이동 구현
+![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/c12e285d-2340-4c1d-86df-6da74b6a74af)
 
 
-4주차 : 캐릭터와 몬스터 충돌처리
 
-
-5,6주차 : 캐릭터에 무기부착 및 투사체 발사와 몬스터 피격 구현
-
-
-7주차 : 공격,피격,이동 애니메이션 적용
-
-
-8주차 : UI제작
-
-
-9주차 : 사운드 적용 및 마무리작업
+GameView(주 게임뷰)에서 JoyStick(컨트롤러) 과 StickMan(플레이어)가 구현되고 BitmapPool에서 Bitmap을 로드합니다.
 
 
 
