@@ -13,5 +13,8 @@ public class GameActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        GameView gameView = new GameView(this);
+        //gameView.setFullScreen();
+        setContentView(gameView);
     }
 }
