@@ -20,5 +20,9 @@ public class Stickman {
     public void draw(Canvas canvas) {
         canvas.drawBitmap(bitmap, null, dstRect, null);
     }
-}
 
+    public void setPosition(float x, float y) {
+        float r = 1.25f;
+        dstRect.set(x-r, y-r, x+r, y+r);
+    }
+}
