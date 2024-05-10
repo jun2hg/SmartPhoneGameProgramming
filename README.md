@@ -1,6 +1,8 @@
 # StickMan Survival
 2024-1 스마트폰게임프로그래밍 텀프
 
+
+
 1.간단한 소개
 
 High Concept
@@ -9,7 +11,9 @@ High Concept
 ![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/f07b687c-f917-429e-926b-09b06b471d0d)  
 
 
-현재까지 진행 상황 :  
+
+
+2.현재까지 진행 상황 :  
 
 
 1주차 :  UI기획 및 리소스 수집 - 100%    
@@ -23,7 +27,9 @@ High Concept
 
 
 
-주별 commit수 :   
+
+
+3.주별 commit수 :   
 
 
 1,2,3,4주차 - 0회  
@@ -31,12 +37,16 @@ High Concept
 5주차 - 11회  
 
 
-목표가 변경된 이유 :
+
+
+4.목표가 변경된 이유 :
 변명의 여지없이 게을렀고 수업을 잘 못 따라갔고 졸작까지 겹쳐서 뒤늦게 교수님이 올려주신 깃허브를 보면서 따라갔습니다.  
 
 
+
+
   
-클래스 구성정보  
+5.클래스 구성정보  
 
 
 
