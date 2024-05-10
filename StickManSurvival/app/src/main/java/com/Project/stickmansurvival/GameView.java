@@ -27,7 +27,7 @@ public class GameView extends View implements Choreographer.FrameCallback  {
         Bitmap stickmanBitmap = BitmapFactory.decodeResource(res, R.mipmap.stickman1);
         this.player = new Stickman(stickmanBitmap);
 
-        scheduleUpdate();
+        //scheduleUpdate();
 
     }
 
