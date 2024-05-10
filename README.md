@@ -2,6 +2,7 @@
 2024-1 스마트폰게임프로그래밍 텀프
 
 
+  
 
 1.간단한 소개
 
@@ -11,6 +12,7 @@ High Concept
 ![image](https://github.com/jun2hg/SmartPhoneGameProgramming/assets/104408406/f07b687c-f917-429e-926b-09b06b471d0d)  
 
 
+  
 
 
 2.현재까지 진행 상황 :  
@@ -27,6 +29,7 @@ High Concept
 
 
 
+  
 
 
 3.주별 commit수 :   
@@ -38,12 +41,14 @@ High Concept
 
 
 
+  
 
 4.목표가 변경된 이유 :
 변명의 여지없이 게을렀고 수업을 잘 못 따라갔고 졸작까지 겹쳐서 뒤늦게 교수님이 올려주신 깃허브를 보면서 따라갔습니다.  
 
 
 
+  
 
   
 5.클래스 구성정보  
