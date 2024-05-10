@@ -3,15 +3,27 @@ package com.Project.stickmansurvival;
 import android.app.Activity;
 import android.content.Context;
 import android.content.ContextWrapper;
+import android.content.res.Resources;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Matrix;
 import android.view.View;
 
 public class GameView extends View {
-    private final Activity activity;
+    private Activity activity;
+
+    private final Stickman player;
     public GameView(Context context) {
         super(context);
-        this.activity=(Activity) context;
+        if (context instanceof Activity) {
+            this.activity = (Activity) context;
+        }
+
+        Resources res = getResources();
+        Bitmap stickmanBitmap = BitmapFactory.decodeResource(res, R.mipmap.stickman1);
+        this.player = new Stickman(stickmanBitmap);
+
 
         setFullScreen();
     }
@@ -62,6 +74,11 @@ public class GameView extends View {
         super.onDraw(canvas);
         canvas.save();
         canvas.concat(transformMatrix);
+        player.draw(canvas);
         canvas.restore();
+    }
+
+    private void update(){
+
     }
 }
